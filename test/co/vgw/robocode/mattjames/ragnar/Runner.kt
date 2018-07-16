@@ -10,6 +10,8 @@ import robocode.control.BattlefieldSpecification
 import robocode.control.BattleSpecification
 
 val debug = true
+
+// Bots I use to test Ragnar against
 val Rags="mj.Ragnar 1.5"
 val Rags1Droid="mj.Ragnar1Droid"
 val RagsDroid="mj.RagnarDroid"
